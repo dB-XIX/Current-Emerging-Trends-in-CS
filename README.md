@@ -3,7 +3,7 @@
 ## Project Overview
 
 ### Work Completed
-In this project, we worked on the TreasureHuntGame.ipynb file. While most of the code was provided, we were tasked with developing the **qtrain()** function, which is responsible for deep Q-learning training for the intelligent agent. This involved implementing a robust training loop to enable the agent to learn and make optimal decisions within the game environment.
+In this project, we worked on the TreasureHuntGame.ipynb file. I was tasked with developing the **qtrain()** function, which is responsible for deep Q-learning training for the intelligent agent. This involved implementing a robust training loop to enable the agent to learn and make optimal decisions within the game environment.
 
 ---
 
